@@ -11,3 +11,5 @@ https://github.com/MTN718/Bybit-Trading-Bot/assets/12084368/ae195924-359e-44e4-a
 
 
 You can customize strategy to get better result.
+
+Contact me: yxtech718@gmail.com
