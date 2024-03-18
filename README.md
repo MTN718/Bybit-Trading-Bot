@@ -6,4 +6,8 @@ You can check on live channel on telegram
 
 https://t.me/own_trade2024
 
+https://github.com/MTN718/Bybit-Trading-Bot/assets/12084368/ae195924-359e-44e4-a72e-0335cc5dd938
+
+
+
 You can customize strategy to get better result.
